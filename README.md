@@ -1,2 +1,5 @@
-# world-population-prediction-using-neural-network
-Creating neural network from scratch to predict when world population reach 10 billion.
+# World Population Prediction using Neural Network from Scratch
+
+This code showing you how to build neural network from scratch using Linear Regression to predict when world population reach 10 billion people.
+
+For more explanation check NN.ipynb
